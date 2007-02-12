@@ -1,7 +1,7 @@
 %define short_name negociation
 
 Summary:	Negociation extensions for Narval
-Summary(pl.UTF-8):   Rozszerzenie negocjacyjne dla Narvala
+Summary(pl.UTF-8):	Rozszerzenie negocjacyjne dla Narvala
 Name:		Narval-%{short_name}
 Version:	20011016
 Release:	1
