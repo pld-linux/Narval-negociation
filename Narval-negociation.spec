@@ -1,7 +1,7 @@
 %define short_name negociation
 
 Summary:	Negociation extensions for Narval
-Summary(pl):	Rozszerzenie negocjacyjne dla Narvala
+Summary(pl.UTF-8):   Rozszerzenie negocjacyjne dla Narvala
 Name:		Narval-%{short_name}
 Version:	20011016
 Release:	1
@@ -18,10 +18,10 @@ The negociation package contains transforms and recipes that are
 useful to build multi-agents negociation applications.
 A sample of application can be found in the PIA package.
 
-%description -l pl
-Pakiet negociation zawiera przekszta³cenia i recepty u¿yteczne do
-budowania aplikacji negocjuj±cych miêdzy agentami.
-Przyk³adow± aplikacjê zawiera pakiet PIA.
+%description -l pl.UTF-8
+Pakiet negociation zawiera przeksztaÅ‚cenia i recepty uÅ¼yteczne do
+budowania aplikacji negocjujÄ…cych miÄ™dzy agentami.
+PrzykÅ‚adowÄ… aplikacjÄ™ zawiera pakiet PIA.
 
 %prep
 
